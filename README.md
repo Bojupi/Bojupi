@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 January 2025 - To: 01 February 2025
+From: 26 January 2025 - To: 02 February 2025
 
-C           4 hrs 36 mins   █████████████████▓░░░░░░░   70.54 %
-Python      1 hr 53 mins    ███████▒░░░░░░░░░░░░░░░░░   29.03 %
-Batchfile   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
+C           4 hrs 36 mins   █████████████████▓░░░░░░░   71.21 %
+Python      1 hr 50 mins    ███████░░░░░░░░░░░░░░░░░░   28.36 %
+Batchfile   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
 ```
 
 <!--END_SECTION:waka-->
