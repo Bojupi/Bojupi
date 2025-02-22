@@ -18,10 +18,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 14 February 2025 - To: 21 February 2025
+From: 15 February 2025 - To: 22 February 2025
 
-Python   19 hrs 42 mins  █████████████████████████   99.87 %
-TeX      1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
+Python   16 hrs 31 mins  ████████████████████████░   95.97 %
+TeX      41 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 %
 Other    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
