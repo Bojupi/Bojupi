@@ -18,12 +18,12 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 March 2025 - To: 14 March 2025
+From: 08 March 2025 - To: 15 March 2025
 
-Python   24 hrs 13 mins  █████████████████████▒░░░   85.07 %
-JSON     3 hrs 59 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.02 %
-TeX      10 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 %
-Bash     4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
+Python   18 hrs 35 mins  ████████████████████▓░░░░   82.42 %
+JSON     3 hrs 42 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.43 %
+TeX      10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 %
+Bash     4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
 Other    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
