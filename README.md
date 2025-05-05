@@ -18,12 +18,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 April 2025 - To: 04 May 2025
+From: 28 April 2025 - To: 05 May 2025
 
-Python     11 hrs 20 mins  █████████████████████████   99.44 %
-MATLAB     3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 %
-Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
-Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Python   10 hrs 30 mins  █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
