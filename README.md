@@ -18,13 +18,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 11 May 2025 - To: 18 May 2025
+From: 12 May 2025 - To: 19 May 2025
 
-Python      2 hrs 46 mins   ████████████████████████░   95.82 %
-RMarkdown   6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 %
-R           1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 %
-S           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
-HTML        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Python   0 secs          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
