@@ -18,10 +18,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 May 2025 - To: 07 June 2025
+From: 01 June 2025 - To: 08 June 2025
 
-Python   30 hrs 55 mins  █████████████████████████   99.52 %
-C++      9 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 %
+Python   31 hrs 25 mins  █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
