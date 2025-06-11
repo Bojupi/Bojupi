@@ -18,12 +18,12 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 June 2025 - To: 10 June 2025
+From: 04 June 2025 - To: 11 June 2025
 
-Python                     31 hrs 39 mins  ████████████████████████▓   99.04 %
-CSV                        8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
-Bash                       3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
-Text                       3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
+Python                     31 hrs 18 mins  ████████████████████████▓   98.33 %
+Bash                       17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.91 %
+CSV                        8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
+Text                       3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
 DIGITAL Command Language   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
 ```
 
