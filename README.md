@@ -18,13 +18,13 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 June 2025 - To: 13 June 2025
+From: 07 June 2025 - To: 14 June 2025
 
-Python                     21 hrs 2 mins   ████████████████████████▒   97.53 %
-Bash                       17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.34 %
-CSV                        8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 %
-Text                       3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
-DIGITAL Command Language   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
+Python                     14 hrs 49 mins  ████████████████████████░   96.49 %
+Bash                       17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.88 %
+CSV                        8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.94 %
+Text                       3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
+DIGITAL Command Language   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
 ```
 
 <!--END_SECTION:waka-->
