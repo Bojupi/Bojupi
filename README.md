@@ -18,12 +18,12 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 June 2025 - To: 17 June 2025
+From: 11 June 2025 - To: 18 June 2025
 
-Python   5 hrs 58 mins   ████████████████████████░   96.26 %
-Bash     13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 %
-CSV      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
-Text     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+Python     1 hr 27 mins    ███████████████████▓░░░░░   78.75 %
+YAML       16 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.13 %
+Markdown   6 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.73 %
+CSV        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
 ```
 
 <!--END_SECTION:waka-->
