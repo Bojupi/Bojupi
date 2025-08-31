@@ -18,11 +18,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 August 2025 - To: 30 August 2025
+From: 24 August 2025 - To: 31 August 2025
 
-Python   23 mins         ███████████████████████▒░   92.89 %
-XML      1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 %
-Bash     0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.80 %
+Python   5 hrs 17 mins   █████████████████████████   99.66 %
+XML      1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
 ```
 
 <!--END_SECTION:waka-->
