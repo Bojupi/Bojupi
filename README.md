@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 August 2025 - To: 05 September 2025
+From: 30 August 2025 - To: 06 September 2025
 
 Python       54 hrs 50 mins  █████████████████████████   99.90 %
 CSV          1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
