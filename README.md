@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 September 2025 - To: 25 September 2025
+From: 19 September 2025 - To: 26 September 2025
 
 C++        1 hr 4 mins     ███████████▓░░░░░░░░░░░░░   46.22 %
 Python     56 mins         ██████████░░░░░░░░░░░░░░░   40.06 %
