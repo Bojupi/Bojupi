@@ -18,13 +18,13 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 October 2025 - To: 10 October 2025
+From: 04 October 2025 - To: 11 October 2025
 
-Python     27 hrs 22 mins  ███████████████████████▓░   94.30 %
-C++        57 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.33 %
-C          36 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.10 %
-Markdown   3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
-CMake      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+Python     34 hrs 37 mins  ████████████████████████░   95.44 %
+C++        57 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.66 %
+C          36 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.68 %
+Markdown   3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
+CMake      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
 <!--END_SECTION:waka-->
